@@ -46,3 +46,7 @@ https://v-la.mybtv.net/live/178.m3u8
 https://linear-361.frequency.stream/361/hls/master/playlist.m3u8
 #EXTINF:-1 ,ESPN1
 https://b7i4j3n3.stackpathcdn.com/dlive/transcode-76-251/dlive-ilxajlusat/1660274001/src/live.m3u8
+#EXTINF:-1 ,TUDN3
+https://dcs-live-ue1.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-4&anvsid=m177618717-ne51d53f162b584f6ff0f588456a9856a&ts=1660433633&anvtrid=f68a6248d58e90fe5407544792cd7cc7
+#EXTINF:-1 ,CANAL 5
+https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
