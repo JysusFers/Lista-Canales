@@ -1,1 +1,1 @@
-https://github.com/JysusFers/Lista-Canales/blob/main/Canales%20New.m3u
+https://github.com/JysusFers/Lista-Canales/blob/main/CANALES%20NEW.m3u
