@@ -6,8 +6,6 @@ https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
 https://v-la.mybtv.net/live/299.m3u8
 #EXTINF:-1 ,CANAL UNIMAS2
 https://v-px.mybtv.net/live/56.m3u8
-#EXTINF:-1 ,CANAL TUDN
-https://linear-348.frequency.stream/348/hls/master/playlist.m3u8
 #EXTINF:-1 ,CANAL afizionados
 https://linear-348.frequency.stream/348/hls/master/playlist.m3u8
 #EXTINF:-1 ,CANAL Univison
@@ -18,8 +16,6 @@ http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8
 #EXTINF:-1 ,CANAL 6 MONTERREY HD
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 ,CANAL 6 CDMEX
-https://www.youtube.com/watch?v=OZbumZy20QE
 #EXTINF:-1 ,CANAL 6 GDL
 https://www.youtube.com/watch?v=ouIY6wf5CwM
 #EXTINF:-1 ,CANAL Excelsior
@@ -36,7 +32,3 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 ,euronews
 https://www.youtube.com/watch?v=JbKgQhFlMdU
-#EXTINF:-1 ,CANAL fox youtube
-https://www.youtube.com/watch?v=z-stKv5npXU
-#EXTINF:-1 ,CANAL tudn jeinmacias
-https://videodelivery.net/c1da5fa03b6d747a855202a3eb05448e/manifest/video.m3u8
